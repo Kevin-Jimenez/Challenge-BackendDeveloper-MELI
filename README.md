@@ -1,7 +1,5 @@
 # Challenge - Backend Developer
 
-- **Candidato: Kevin Santiago Jimenez Salamanca**
-
 Este proyecto es una REST API de alto rendimiento desarrollada con Java 21 y Spring Boot 3. La aplicación está diseñada para la gestión eficiente de productos, optimizando la capacidad de respuesta mediante el uso de hilos virtuales, estrategias de caché avanzadas y una arquitectura basada en patrones de diseño robustos.
 
 ###  🚀 Stack Tecnológico
