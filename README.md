@@ -229,8 +229,8 @@ Una vez que la aplicación esté en ejecución, puedes explorar y probar los end
 ### Instalación y Arranque
 * **Clonar el repositorio:**
 ```bash
-git clone https://git-rba.hackerrank.com/git/37e47999-9cee-4091-a263-62ddb4a87177-v2
-cd 37e47999-9cee-4091-a263-62ddb4a87177-v2
+git clone https://github.com/Kevin-Jimenez/Challenge-BackendDeveloper-MELI.git
+cd Challenge-BackendDeveloper-MELI
 ```
 
 * **Construir el proyecto:**
